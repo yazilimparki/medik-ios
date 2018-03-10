@@ -1,0 +1,25 @@
+/*
+
+Medik (r) Photo Sharing Platform for Health Professionals (http://medik.com)
+Copyright (c) Yazılım Parkı Bilişim Teknolojileri D.O.R.P. Ltd. Şti. (http://yazilimparki.com.tr)
+
+Licensed under The MIT License (https://opensource.org/licenses/mit-license.php)
+For full copyright and license information, please see the LICENSE.txt file.
+Redistributions of files must retain the above copyright notice.
+
+Medik (r) is registered trademark of Yazılım Parkı Bilişim Teknolojileri D.O.R.P. Ltd. Şti.
+
+*/
+
+"Allow Photos" = "Fotoğraflar";
+"Allow Camera" = "Kamera";
+"Allowed Photos" = "İzin verildi";
+"Allowed Camera" = "İzin verildi";
+"Denied Photos" = "İzin verilmedi";
+"Denied Camera" = "İzin verilmedi";
+"Permission for Photos was denied." = "Fotoğraflara erişemiyoruz.";
+"Please enable access to Photos in the Settings app" = "Lütfen Ayarlar'ı açıp fotoğraflara erişim izni verin.";
+"Permission for Camera was denied." = "Kameraya erişemiyoruz.";
+"Please enable access to Camera in the Settings app" = "Lütfen Ayarlar'ı açıp kameraya erişim izni verin.";
+"OK" = "Tamam";
+"Show me" = "Göster";
