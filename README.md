@@ -1,5 +1,7 @@
-# Medik<sup>&reg;</sup>
+# Medik<sup>&reg;</sup> iOS Application
 [Medik](http://medik.com)<sup>&reg;</sup> is a photo sharing platform for health professionals.
+
+Check `medik/MKit/Constants.swift` file for configuration settings. 
 
 ### Requirements
 * Xcode
